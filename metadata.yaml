@@ -1,9 +1,13 @@
 _repo: Your-Affectionate-Godmother_49715
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Hart, Grace
     gutenberg_agent_id: '45505'
     url: http://www.gutenberg.org/2009/agents/45505
+covers:
+- cover_type: archival
+  image_path: 49715-h/images/cover_lg.jpg
 creator:
   author:
     agent_name: Glyn, Elinor
@@ -14,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1762
     wikipedia: http://en.wikipedia.org/wiki/Elinor_Glyn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49715#Your-Affectionate-Godmother
 gutenberg_issued: '2015-08-16'
 gutenberg_type: Text
 identifiers:
